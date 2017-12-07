@@ -80,3 +80,5 @@
 2017-12-07 15:38:36,341  INFO LoggingInterceptor:26 - method: GET	uri: /spring-rest-api-openbank/swagger-resources/configuration/ui	status: 200	remoteAddress: 0:0:0:0:0:0:0:1	
 2017-12-07 15:38:36,364  INFO LoggingInterceptor:26 - method: GET	uri: /spring-rest-api-openbank/swagger-resources	status: 200	remoteAddress: 0:0:0:0:0:0:0:1	
 2017-12-07 15:38:36,756  INFO LoggingInterceptor:26 - method: GET	uri: /spring-rest-api-openbank/swagger-resources/configuration/security	status: 200	remoteAddress: 0:0:0:0:0:0:0:1	
+2017-12-07 16:38:51,670  INFO AnnotationConfigWebApplicationContext:989 - Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Thu Dec 07 15:37:55 COT 2017]; root of context hierarchy
+2017-12-07 16:38:51,674  INFO DefaultLifecycleProcessor:368 - Stopping beans in phase 2147483647
